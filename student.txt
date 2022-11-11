@@ -1,0 +1,4 @@
+Name: Alfina Aura Syahputri
+Student number: 659261
+Class: 1D
+Github repository: https://github.com/alfinaaura/Webmarkup
